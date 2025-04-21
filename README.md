@@ -6,17 +6,17 @@ This repository contains several machine learning projects focused on clustering
  ### 1. Mall Customers Clustering (KMeans and DBSCAN)
 This project demonstrates clustering of mall customers based on their annual income and spending score using two popular clustering algorithms: KMeans and DBSCAN. The goal is to find meaningful patterns in customer behavior for potential business insights.
 
-Dataset: Mall Customers Dataset
+#### Dataset: Mall Customers Dataset
 
-Methods Used:
+#### Methods Used:
 
 KMeans Clustering with Elbow Method to find optimal number of clusters
 
 DBSCAN Clustering with Grid Search for optimal parameters (eps and min_samples)
 
-Key Features: Annual Income (k$), Spending Score (1-100)
+#### Key Features: Annual Income (k$), Spending Score (1-100)
 
-Results:
+#### Results:
 
 KMeans with 5 clusters and visualized with a Voronoi diagram.
 
@@ -25,9 +25,9 @@ DBSCAN with the best eps and min_samples values based on silhouette score.
 ### 2. Music Genre Clustering (KMeans and DBSCAN)
 In this project, music genre data is used to perform clustering. The dataset contains various audio features, and the goal is to group the data into clusters using both KMeans and DBSCAN.
 
-Dataset: Music Features Dataset
+#### Dataset: Music Features Dataset
 
- Methods Used:
+ #### Methods Used:
 
 Random Forest to determine important features
 
@@ -35,9 +35,9 @@ KMeans Clustering with elbow method to find optimal k
 
 DBSCAN for density-based clustering with optimal parameters found using Grid Search
 
-Key Features: beats, chroma_stft, tempo, spectral_centroid, etc.
+#### Key Features: beats, chroma_stft, tempo, spectral_centroid, etc.
 
-Results:
+#### Results:
 
 KMeans with 3 clusters and Voronoi diagram visualization.
 
