@@ -32,8 +32,11 @@ In this project, music genre data is used to perform clustering. The dataset con
 Random Forest to determine important features
 
 KMeans Clustering with elbow method to find optimal k
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/72afaf91-9b89-4339-bd7c-294a0362e880" />
+![image](https://github.com/user-attachments/assets/f5581e27-9e51-460a-bbe1-527e38a4c845)
 
 DBSCAN for density-based clustering with optimal parameters found using Grid Search
+![image](https://github.com/user-attachments/assets/f17a2959-7d9a-46fd-80c7-c4af00b3d175)
 
 #### Key Features: beats, chroma_stft, tempo, spectral_centroid, etc.
 
