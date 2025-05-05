@@ -54,6 +54,7 @@ DBSCAN with an optimal eps and min_samples values for good clustering performanc
 Comparison of DBSCAN clusters to actual music genres and calculation of metrics such as Adjusted Rand Index and Homogeneity Score.
 ![image](https://github.com/user-attachments/assets/f17a2959-7d9a-46fd-80c7-c4af00b3d175)
 ![image](https://github.com/user-attachments/assets/90d728c7-668d-4bfb-b81d-f4dc19757f1e)
+![image](https://github.com/user-attachments/assets/b0230087-615b-4271-b98d-ccbbae2a8e7d)
 
 
 ## Key Concepts
